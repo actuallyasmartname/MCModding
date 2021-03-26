@@ -28,3 +28,4 @@ bin
 .project
 src/main/java/io/github/actuallyasmartname/uitobeused
 .classpath
+config.xml
