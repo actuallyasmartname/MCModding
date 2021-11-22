@@ -1,3 +1,4 @@
+// Credit to MCreator for most of this script
 package io.github.actuallyasmartname.detectors;
 
 public class OSDetector {

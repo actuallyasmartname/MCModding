@@ -8,7 +8,6 @@ public class Main {
 		frame.setVisible(true);
 		frame.setSize(690, 690);
 		frame.setTitle("Test bootstrap");
-
 	}
 
 }
