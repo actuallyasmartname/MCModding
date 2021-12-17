@@ -15,7 +15,7 @@ cache:
 
 before_install: chmod +x gradlew
 install:
-  - ./gradlew build
+  - ./gradlew build --warning-mode all
 script:
   - ./gradlew test
 
